@@ -17,4 +17,4 @@ The app is part of Rocketseat bootcamp.
 - Buil: `yarn build`
 
 ---
-Desenvolvido com :purple_heart: por [Marcelo Palmieri](https://www.linkedin.com/in/marcelo-palmieri/)
+Desenvolvido com :purple_heart: por [Marcelo Palmieri](https://www.linkedin.com/in/marcelo-palmieri)
