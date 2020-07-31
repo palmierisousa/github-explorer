@@ -1,3 +1,5 @@
+![Github Explorer](.github/github-explorer.gif)
+
 # Github Explorer
 A ReactJS app to explore github repositories, it uses github api to gather repositories and some indicators like number of stars, likes and opened issues.
 
